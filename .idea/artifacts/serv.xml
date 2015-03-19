@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="serv">
-    <output-path>$PROJECT_DIR$/out/artifacts/serv</output-path>
-    <root id="archive" name="serv.jar">
-      <element id="module-output" name="PrimServ" />
-    </root>
-  </artifact>
-</component>
