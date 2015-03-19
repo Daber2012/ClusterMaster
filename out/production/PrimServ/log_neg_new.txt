@@ -1,0 +1,120 @@
+Fri Sep 26 18:12:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:12:34 EEST 2014:  primary
+Fri Sep 26 18:12:34 EEST 2014:  finally
+Fri Sep 26 18:12:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:12:34 EEST 2014: not primary 
+Fri Sep 26 18:12:34 EEST 2014:  finally
+Fri Sep 26 18:13:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:13:04 EEST 2014:  primary
+Fri Sep 26 18:13:04 EEST 2014:  finally
+Fri Sep 26 18:13:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:13:04 EEST 2014: not primary 
+Fri Sep 26 18:13:04 EEST 2014:  finally
+Fri Sep 26 18:13:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:13:34 EEST 2014: not primary 
+Fri Sep 26 18:13:34 EEST 2014:  finally
+Fri Sep 26 18:13:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:13:34 EEST 2014:  primary
+Fri Sep 26 18:13:34 EEST 2014:  finally
+Fri Sep 26 18:14:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:14:04 EEST 2014:  primary
+Fri Sep 26 18:14:04 EEST 2014:  finally
+Fri Sep 26 18:14:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:14:04 EEST 2014: not primary 
+Fri Sep 26 18:14:04 EEST 2014:  finally
+Fri Sep 26 18:14:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:14:34 EEST 2014: not primary 
+Fri Sep 26 18:14:34 EEST 2014:  finally
+Fri Sep 26 18:14:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:14:34 EEST 2014:  primary
+Fri Sep 26 18:14:34 EEST 2014:  finally
+Fri Sep 26 18:15:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:15:04 EEST 2014:  primary
+Fri Sep 26 18:15:04 EEST 2014:  finally
+Fri Sep 26 18:15:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:15:04 EEST 2014: not primary 
+Fri Sep 26 18:15:04 EEST 2014:  finally
+Fri Sep 26 18:15:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:15:34 EEST 2014: not primary 
+Fri Sep 26 18:15:34 EEST 2014:  finally
+Fri Sep 26 18:15:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:15:34 EEST 2014:  primary
+Fri Sep 26 18:15:34 EEST 2014:  finally
+Fri Sep 26 18:16:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:16:04 EEST 2014:  primary
+Fri Sep 26 18:16:04 EEST 2014:  finally
+Fri Sep 26 18:16:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:16:04 EEST 2014: not primary 
+Fri Sep 26 18:16:04 EEST 2014:  finally
+Fri Sep 26 18:16:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:16:34 EEST 2014: not primary 
+Fri Sep 26 18:16:34 EEST 2014:  finally
+Fri Sep 26 18:16:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:16:34 EEST 2014:  primary
+Fri Sep 26 18:16:34 EEST 2014:  finally
+Fri Sep 26 18:17:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:17:04 EEST 2014:  primary
+Fri Sep 26 18:17:04 EEST 2014:  finally
+Fri Sep 26 18:17:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:17:04 EEST 2014: not primary 
+Fri Sep 26 18:17:04 EEST 2014:  finally
+Fri Sep 26 18:17:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:17:34 EEST 2014:  primary
+Fri Sep 26 18:17:34 EEST 2014:  finally
+Fri Sep 26 18:17:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:17:34 EEST 2014: not primary 
+Fri Sep 26 18:17:34 EEST 2014:  finally
+Fri Sep 26 18:18:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:18:04 EEST 2014:  primary
+Fri Sep 26 18:18:04 EEST 2014:  finally
+Fri Sep 26 18:18:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:18:04 EEST 2014: not primary 
+Fri Sep 26 18:18:04 EEST 2014:  finally
+Fri Sep 26 18:18:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:18:34 EEST 2014:  primary
+Fri Sep 26 18:18:34 EEST 2014:  finally
+Fri Sep 26 18:18:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:18:34 EEST 2014: not primary 
+Fri Sep 26 18:18:34 EEST 2014:  finally
+Fri Sep 26 18:19:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:19:04 EEST 2014:  primary
+Fri Sep 26 18:19:04 EEST 2014:  finally
+Fri Sep 26 18:19:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:19:04 EEST 2014: not primary 
+Fri Sep 26 18:19:04 EEST 2014:  finally
+Fri Sep 26 18:19:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:19:34 EEST 2014:  primary
+Fri Sep 26 18:19:34 EEST 2014:  finally
+Fri Sep 26 18:19:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:19:34 EEST 2014: not primary 
+Fri Sep 26 18:19:34 EEST 2014:  finally
+Fri Sep 26 18:20:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:20:04 EEST 2014: not primary 
+Fri Sep 26 18:20:04 EEST 2014:  finally
+Fri Sep 26 18:20:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:20:04 EEST 2014:  primary
+Fri Sep 26 18:20:04 EEST 2014:  finally
+Fri Sep 26 18:20:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:20:34 EEST 2014:  primary
+Fri Sep 26 18:20:34 EEST 2014:  finally
+Fri Sep 26 18:20:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:20:34 EEST 2014: not primary 
+Fri Sep 26 18:20:34 EEST 2014:  finally
+Fri Sep 26 18:21:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:21:04 EEST 2014:  primary
+Fri Sep 26 18:21:04 EEST 2014:  finally
+Fri Sep 26 18:21:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:21:04 EEST 2014: not primary 
+Fri Sep 26 18:21:04 EEST 2014:  finally
+Fri Sep 26 18:21:34 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:21:34 EEST 2014: not primary 
+Fri Sep 26 18:21:34 EEST 2014:  finally
+Fri Sep 26 18:21:34 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:21:34 EEST 2014:  primary
+Fri Sep 26 18:21:34 EEST 2014:  finally
+Fri Sep 26 18:22:04 EEST 2014: Server 192.168.2.108 is 
+Fri Sep 26 18:22:04 EEST 2014:  primary
+Fri Sep 26 18:22:04 EEST 2014:  finally
+Fri Sep 26 18:22:04 EEST 2014: Server 192.168.2.107 is 
+Fri Sep 26 18:22:04 EEST 2014: not primary 
+Fri Sep 26 18:22:04 EEST 2014:  finally
